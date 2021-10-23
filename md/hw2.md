@@ -612,6 +612,6 @@ postgres://awmebvhvoekhko:387988bd19d16e47964841ef0ee64588020004ba26d37a646c7ab5
 - ##### Chrome 圖片有關 Github page 執行路由 /shop_xx 結果
 
 [<b><u><font color=red>Github repo URL</font></u></b>](https://github.com/209410801/react-1101-crown-209410801)
-[<b><u><font color=red>Github page URL</font></u></b>](https://209410801.github.io/react-1101-crown-209410801/)
+[<b><u><font color=red>Github page URL</font></u></b>](https://209410801.github.io/react-1101-crown-209410801/shop_01)
 ![](https://i.imgur.com/AFyWSqo.jpg)
 ![](https://i.imgur.com/7SQ5nsH.jpg)
