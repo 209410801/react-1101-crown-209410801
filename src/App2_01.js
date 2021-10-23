@@ -13,6 +13,7 @@ function App2_01() {
     <div>
       <Header_01 />
       <Switch>
+        <Route exact path = '/react-1101-crown-209410801' component = {HomePage2_01} />
         <Route exact path = '/' component = {HomePage2_01} />
         <Route exact path = '/shop_01' component = {Shop_01} />
         <Route exact path = '/showtwo_01' component = {ShowTwoPage2_01} />

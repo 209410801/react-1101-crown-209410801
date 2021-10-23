@@ -11,6 +11,7 @@ function App_01() {
     <HashRouter>
       <Header_01 />
       <Switch>
+        <Route exact path="/react-1101-crown-209410801" component={HomePage_01} />
         <Route exact path="/" component={HomePage_01} />
         <Route path="/shop_01" component={Shop_01} />
       </Switch>
